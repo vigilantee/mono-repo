@@ -1,0 +1,26 @@
+{
+  "name": "@tcp/web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "next",
+    "build": "next build",
+    "next-start": "next start"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.4.3",
+    "@babel/runtime-corejs2": "^7.4.3",
+    "@tcp/core": "*",
+    "next": "latest",
+    "next-transpile-modules": "^2.0.0",
+    "next-redux-saga": "4.0.0",
+    "next-redux-wrapper": "^3.0.0-alpha.2",
+    "react": "latest",
+    "react-dom": "latest",
+    "styled-components": "^4.2.0",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "redux-saga": "^1.0.2"
+  },
+  "license": "ISC"
+}

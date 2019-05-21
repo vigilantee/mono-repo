@@ -1,0 +1,32 @@
+{
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0",
+    "@expo/samples": "2.1.1",
+    "apisauce": "^1.0.2",
+    "aws-appsync": "^1.8.0",
+    "aws-appsync-react": "^1.2.8",
+    "metro-config": "^0.53.1",
+    "react": "16.5.0",
+    "react-apollo": "^2.5.5",
+    "react-native": "0.57.1",
+    "react-native-gesture-handler": "^1.2.1",
+    "react-navigation": "^3.0.7",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "redux-saga": "^1.0.2",
+    "styled-components": "^4.2.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0",
+    "jest-expo": "^32.0.0",
+    "react-native-render-html": "^4.1.2",
+    "react-native-webview": "^5.3.1",
+    "schedule": "^0.4.0"
+  },
+  "private": true
+}

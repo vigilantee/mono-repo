@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "053f4dfb3babba46e3dea726ce986f7c"
+build_time: [1558372463, 988789000]
+inputs:
+  "/Users/eternal_mangekyo/Desktop/native-app/node_modules/react-native/Libraries/NativeAnimation/OTInstall.swift": [1558370297, 0]
